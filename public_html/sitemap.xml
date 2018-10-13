@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                            <urlset
+                              xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                              xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                                    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>https://torgovod.ru/articles/article?num=6</loc>
+</url>
+<url>
+<loc>https://torgovod.ru/articles/article?num=5</loc>
+</url>
+<url>
+<loc>https://torgovod.ru/articles/article?num=4</loc>
+</url>
+<url>
+<loc>https://torgovod.ru/</loc>
+</url>
+<url>
+<loc>https://torgovod.ru/prices/index</loc>
+</url>
+<url>
+<loc>https://torgovod.ru/contacts/index</loc>
+</url>
+<url>
+<loc>https://torgovod.ru/database/index</loc>
+</url>
+<url>
+<loc>https://torgovod.ru/articles/index</loc>
+</url>
+</urlset>
